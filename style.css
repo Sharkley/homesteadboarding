@@ -20,6 +20,12 @@ body {
     background-color: (255, 243, 198);
 }
 
+footer {
+    background-color: FFF3C6;
+    text-align: center;
+    
+}
+
 /*
 .topnav {
     background-color: (255, 243, 198);
